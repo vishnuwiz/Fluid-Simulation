@@ -17,9 +17,9 @@ const fontOptions = {
 
 const params = {
     fontName: "Verdana",
-    isBold: false,
-    fontSize: 80,
-    text: "fluid",
+    isBold: true,
+    fontSize: 100,
+    text: "Sandyyyyyy 🎀",
     pointerSize: null,
     color: {r: 1., g: .0, b: .5}
 };

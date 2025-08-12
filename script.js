@@ -18,8 +18,8 @@ const fontOptions = {
 const params = {
     fontName: "Verdana",
     isBold: true,
-    fontSize: 50,
-    text: "Sandyyyyyy 🎀",
+    fontSize: 40,
+    text: "Sandyyy 🎀",
     pointerSize: null,
     color: {r: 1., g: .0, b: .5}
 };

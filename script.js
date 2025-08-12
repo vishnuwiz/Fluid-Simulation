@@ -65,7 +65,6 @@ gl.enableVertexAttribArray(0);
 
 createTextCanvasTexture();
 initFBOs();
-createControls();
 setupEvents();
 resizeCanvas();
 window.addEventListener("resize", resizeCanvas);
